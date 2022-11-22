@@ -1,5 +1,5 @@
 # snappsbuilder
-#login link returned by the snapps builder for a specific site.  
+login link returned by the snapps builder for a specific site.  
 https://builder.snapps.ai/edit/u-7bd517ca324a671/SLoeEwzynu/admin.php?key=027020b15423310065e7371ddba167dd
 
 # Below is the link of edit website
